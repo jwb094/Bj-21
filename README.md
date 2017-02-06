@@ -1,1 +1,2 @@
-# Bj-21
+# BlackJackApiGame
+# https://blackjackwebtest.herokuapp.com/
